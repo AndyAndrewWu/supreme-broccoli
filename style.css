@@ -1,0 +1,24 @@
+body {
+    background-color: gray;
+ 
+ h1 {
+    font: EB Garamond;
+    font-style: normal;
+ }
+
+.copy_right_footer { position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    }
+
+    img:hover{ border-radius: 140px;
+    box-shadow: 0 6px 8px rgba(2, 2, 2, 0.2);
+    }
+
+    img {
+        width: ;
+        border-radius: 15px;
+        padding: 20px;
+        
+    }
